@@ -8,3 +8,12 @@
 * git status
 * git add
 * git commit
+
+## Commandes pour les dépots distants
+
+* git branch
+* git checkout
+* git push
+* git clone
+* git pull
+

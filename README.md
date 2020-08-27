@@ -14,3 +14,6 @@
 * git branch
 * git checkout
 * git push
+* git clone
+* git pull
+

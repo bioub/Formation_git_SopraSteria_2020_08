@@ -17,4 +17,9 @@
 * git clone
 * git pull
 
+## Commande de retour en arrière
+
+* git reset
+* git checkout
+
 ## Suite demain

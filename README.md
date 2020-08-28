@@ -29,3 +29,10 @@
 * git checkout
 * git merge
 * git rebase
+
+# Différents workflow
+
+* Basic workflow (une seule branch)
+* Git Flow (un peu dépassé)
+* Github Flow
+* Workflow Custom

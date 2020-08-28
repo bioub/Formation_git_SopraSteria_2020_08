@@ -22,4 +22,10 @@
 * git reset
 * git checkout
 
-## Suite demain
+## Commandes de branches
+
+* git branch
+* git switch
+* git checkout
+* git merge
+* git rebase

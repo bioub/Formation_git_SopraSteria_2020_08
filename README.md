@@ -1,4 +1,4 @@
-# Memento des commandes vues pendant la formation
+# Memento des commandes vues pendant la formation Git
 
 ## Liste des commandes du dépôt git local
 
